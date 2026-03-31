@@ -1,0 +1,5 @@
+Deep Purple	#5B2EFF	purple-600 (closest)
+Soft Lavender	#A78BFA	purple-400
+Pure White	#FFFFFF	white
+Charcoal Black	#121212	neutral-900
+Light Gray	#F5F5F5	neutral-100
