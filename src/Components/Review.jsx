@@ -5,8 +5,8 @@ import { Star } from "lucide-react";
 const reviews = [
   {
     name: "Ananya Sharma",
-    img: "https://randomuser.me/api/portraits/women/44.jpg",
-    work: "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?q=80&w=800&auto=format&fit=crop",
+    img: "https://randomuser.me/api/portraits/women/34.jpg",
+    work: "./skin-care.jpg",
     review:
       "The transformation was exactly what I was hoping for. The team understood my style and delivered a look that felt natural and elegant.",
   },

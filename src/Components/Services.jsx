@@ -6,19 +6,19 @@ const services = [
     title: "Hair Styling",
     desc: "A great hairstyle is more than just a look — it's a reflection of your personality. Our expert stylists craft styles that suit you perfectly.",
     price: "₹300 – ₹1500",
-    img: "https://images.unsplash.com/photo-1519699047748-de8e457a634e?q=80&w=1200&auto=format&fit=crop",
+    img: "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?q=80&w=1200&auto=format&fit=crop",
   },
   {
     title: "Skin Care",
     desc: "Relaxing treatments that nourish your skin, restore glow, and leave you refreshed with a radiant appearance.",
     price: "₹500 – ₹2500",
-    img: "https://images.unsplash.com/photo-1598449426314-8b02525e8733?q=80&w=1200&auto=format&fit=crop",
+    img: "./skin-care.jpg",
   },
   {
     title: "Bridal Makeup",
     desc: "Flawless, long-lasting bridal makeup tailored to make your special day unforgettable.",
     price: "₹5000+",
-    img: "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?q=80&w=1200&auto=format&fit=crop",
+    img: "https://images.unsplash.com/photo-1519699047748-de8e457a634e?q=80&w=1200&auto=format&fit=crop",
   },
 ];
 
